@@ -1,3 +1,3 @@
 "use strict";
-var course = "Next level web development";
+var course = "next level web development";
 console.log(course);
