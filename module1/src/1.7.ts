@@ -35,7 +35,7 @@
   //   greetFriends("abul", "kuddus", "bulbul", "ubul");
 
   const greetFriends = (...friends: string[]) => {
-    friends.forEach((friend: string) => console.log(`Hi ${friends}`));
+    friends.forEach((friend: string) => console.log(`Hi ${friend}`));
   };
 
   greetFriends("abul", "kuddus", "bulbul", "ubul");
