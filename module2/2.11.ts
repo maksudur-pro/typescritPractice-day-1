@@ -36,6 +36,7 @@
   //   person1.name = "jof";
 
   // Record
+  
 
   //   type MyObj = {
   //     a: string;
